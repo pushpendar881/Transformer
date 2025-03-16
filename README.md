@@ -17,6 +17,10 @@ This project implements a Transformer model from scratch using Python and PyTorc
 5. **Layer Normalization & Dropout**: Helps with model stability.
 6. **Encoder & Decoder Stacks**: Consists of multiple Transformer layers.
 
+##Dataset use is 
+Helsinki-NLP/opus_books
+https://huggingface.co/datasets/Helsinki-NLP/opus_books
+
 
 
 
